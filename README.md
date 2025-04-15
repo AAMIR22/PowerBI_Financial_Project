@@ -1,6 +1,4 @@
-# PowerBI_Financial_Project
-
-# Financial Dataset Analysis
+# PowerBI_Financial_Project - Financial Dataset Analysis
 
 ## Overview
 This project provides an interactive visualization of key financial metrics, helping stakeholders track and compare performance across various dimensions. The dataset presents insights into **sales, orders, profits, profit margin, and discounts**, comparing **current vs prior year** results.
